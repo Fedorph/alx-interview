@@ -1,3 +1,3 @@
 # ALX Interview
 
-This repository contains a series of software developer interview challenges.
+This repository contains a series of interview challenges that will be encountered by a software developer.
